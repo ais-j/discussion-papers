@@ -1,6 +1,8 @@
 ---
-title: "Test"
+title: "テスト投稿"
 date: 2021-07-20T07:12:13+09:00
-draft: true
+draft: false
 ---
+
+テスト投稿です。
 
